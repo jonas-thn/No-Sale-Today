@@ -2,5 +2,14 @@
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 
 ▫️was made in about **7 days** for the **Gamedev.tv Jam 2024**: <br/>
-▫️31 Models, 22 Scripts, ~2000 lines of code
+▫️31 Models, 22 Scripts, ~2000 lines of code <br/> <br/>
 
+Placement out of 1117 submissions:
+#xxx Overall
+#xxx Fun
+-xxx Theme
+-xxx Aesthetics
+-xxx Music
+-xxx Sound
+-xxx Mechanics
+-xxx Story
