@@ -5,11 +5,11 @@
 ▫️31 Models, 22 Scripts, ~2000 lines of code <br/> <br/>
 
 :trophy: **Placement out of 1116 submissions:** <br/>
-#xxx Overall <br/>
-#xxx Fun <br/>
-#xxx Theme <br/>
-#xxx Aesthetics <br/>
-#xxx Music <br/>
-#xxx Sound <br/>
-#xxx Mechanics <br/>
-#xxx Story
+#1 Aesthetics <br/>
+#25 Music <br/>
+#34 Overall <br/>
+#37 Sound <br/>
+#81 Story
+#83 Fun <br/>
+#115 Mechanics <br/>
+#189 Theme <br/>
