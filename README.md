@@ -9,7 +9,7 @@
 #25 Music <br/>
 #34 Overall <br/>
 #37 Sound <br/>
-#81 Story
+#81 Story <br/>
 #83 Fun <br/>
 #115 Mechanics <br/>
 #189 Theme <br/>
